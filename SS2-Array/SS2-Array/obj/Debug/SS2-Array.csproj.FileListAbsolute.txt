@@ -1,0 +1,8 @@
+H:\CSharp-NET\SS2-Array\SS2-Array\bin\Debug\SS2-Array.exe.config
+H:\CSharp-NET\SS2-Array\SS2-Array\bin\Debug\SS2-Array.exe
+H:\CSharp-NET\SS2-Array\SS2-Array\bin\Debug\SS2-Array.pdb
+H:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.csproj.AssemblyReference.cache
+H:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.csproj.SuggestedBindingRedirects.cache
+H:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.csproj.CoreCompileInputs.cache
+H:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.exe
+H:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.pdb
