@@ -6,3 +6,11 @@ H:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.csproj.SuggestedBindingRed
 H:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.csproj.CoreCompileInputs.cache
 H:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.exe
 H:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.pdb
+E:\CSharp-NET\SS2-Array\SS2-Array\bin\Debug\SS2-Array.exe.config
+E:\CSharp-NET\SS2-Array\SS2-Array\bin\Debug\SS2-Array.exe
+E:\CSharp-NET\SS2-Array\SS2-Array\bin\Debug\SS2-Array.pdb
+E:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.csproj.AssemblyReference.cache
+E:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.csproj.SuggestedBindingRedirects.cache
+E:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.csproj.CoreCompileInputs.cache
+E:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.exe
+E:\CSharp-NET\SS2-Array\SS2-Array\obj\Debug\SS2-Array.pdb
