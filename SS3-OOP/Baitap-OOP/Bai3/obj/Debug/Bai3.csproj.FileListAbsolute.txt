@@ -1,0 +1,8 @@
+E:\CSharp-NET\SS3-OOP\Baitap-OOP\Bai3\bin\Debug\Bai3.exe.config
+E:\CSharp-NET\SS3-OOP\Baitap-OOP\Bai3\bin\Debug\Bai3.exe
+E:\CSharp-NET\SS3-OOP\Baitap-OOP\Bai3\bin\Debug\Bai3.pdb
+E:\CSharp-NET\SS3-OOP\Baitap-OOP\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+E:\CSharp-NET\SS3-OOP\Baitap-OOP\Bai3\obj\Debug\Bai3.csproj.SuggestedBindingRedirects.cache
+E:\CSharp-NET\SS3-OOP\Baitap-OOP\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+E:\CSharp-NET\SS3-OOP\Baitap-OOP\Bai3\obj\Debug\Bai3.exe
+E:\CSharp-NET\SS3-OOP\Baitap-OOP\Bai3\obj\Debug\Bai3.pdb
